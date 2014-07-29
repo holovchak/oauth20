@@ -1,3 +1,4 @@
+/* 
 VK Api oauth20 - Авторизація
 Copyright (C) 2014 Igor Holovchak
          
@@ -13,6 +14,7 @@ GNU General Public License for more details.
          
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
 
 <html xmlns="http://www.w3.org/1999/xhtml">
    <head>
