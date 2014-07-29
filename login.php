@@ -16,10 +16,11 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-<?
+<?php
    require_once("config.php");
    $link = 'https://oauth.vk.com/authorize?client_id='.CLIENT_ID.'&redirect_uri='.PATH.OAUTH_CALLBACK.'&display=popup&scope='.SCOPE.'&response_type=code';
 ?>
+
 <html xmlns="http://www.w3.org/1999/xhtml">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
